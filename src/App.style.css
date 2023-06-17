@@ -1,0 +1,14 @@
+.App{
+    background: linear-gradient(132deg, rgb(125, 199, 144) 0.00%, rgb(11, 59, 23) 100.00%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+}
+#form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
